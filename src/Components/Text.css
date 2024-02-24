@@ -1,0 +1,17 @@
+.txt{
+    font-family: sans-serif;
+    margin-top:6rem;
+}
+h6{
+    color: #25C4F4;
+    font-size: 0.7rem;
+}
+h1{
+    font-size: 3rem;
+    margin-top: -10px;
+}
+.paragraph{
+    width: 20rem;
+    font-size: 0.9rem;
+    color: rgb(92, 91, 91);
+}
